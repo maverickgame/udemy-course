@@ -1,0 +1,4 @@
+F12 to hide browsers
+
+Better to set genereal setting 60 fpx
+

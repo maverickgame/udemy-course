@@ -1,0 +1,26 @@
+Finite state machine
+Tile Base Collisions
+Graphical assets
+-particel systems
+-pseudo particles
+-multi use light systems
+
+
+Gaming features
+1) enviromental traps
+2) spike pits
+3) water drops
+
+
+Game Over screen
+1) points summary
+2) saving/loading
+3)
+
+Check out game design process
+
+
+Viewport is scaling
+
+
+
